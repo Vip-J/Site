@@ -120,8 +120,8 @@ a:hover {
 }
 
 .contact-para {
-    margin-bottom: 50px;
-    font-size: 85%; 
+    margin: auto auto 50px auto;
+    width: 50%; 
 }
 
 .btn {
